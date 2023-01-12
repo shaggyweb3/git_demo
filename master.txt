@@ -1,3 +1,4 @@
 Updating this file on private branch
 just to check whether git branching works or not
 
+Adding another text to check git pull works or not
